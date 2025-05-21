@@ -1,0 +1,8 @@
+Executaion context :- 
+        . Executaion contex is a container where the functin's code is executed.
+        . It's created whenever a function is called.
+        . It contains 3 things such as Variables, functions and Lexical enviroment  of that function.
+
+Lexical enviroment :-
+        . Lexial enviromentis a chart which have information of acessibility of a perticualer function.
+        . So its contains it's scope and scope chain.
