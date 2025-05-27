@@ -15,6 +15,5 @@ public class OddEven {
 			}
 
 		}
-		System.out.println(" ");
 	}
 }
